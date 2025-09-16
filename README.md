@@ -5,13 +5,13 @@ Este repositorio está configurado con Claude Code para revisión automática de
 ## 🚀 ¿Qué hace Claude?
 
 - Revisa código automáticamente cuando se abre un Pull Request
-- Responde menciones como @claude en Issues y comentarios
-- Adapta sus respuestas según etiquetas como ug, yuda, o evisión
+- Responde menciones como \@claude\ en Issues y comentarios
+- Adapta sus respuestas según etiquetas como \ug\, \yuda\, o \evisión\
 
 ## 🧪 Cómo probarlo
 
 1. Crea un Pull Request → Claude lo revisará automáticamente
-2. Crea un Issue con una etiqueta (ug, yuda, evisión)
+2. Crea un Issue con una etiqueta (\ug\, \yuda\, \evisión\)
 3. Menciona a Claude en el cuerpo del Issue:
 
 \\\
@@ -20,4 +20,9 @@ Este repositorio está configurado con Claude Code para revisión automática de
 
 ## 🔐 Seguridad
 
-Claude usa un token privado guardado como secreto en GitHub: CLAUDE_CODE_OAUTH_TOKEN
+Claude usa un token privado guardado como secreto en GitHub: \CLAUDE_CODE_OAUTH_TOKEN\
+
+## ⚠️ Requisito
+
+Antes de usar Claude, asegúrate de que la GitHub App esté instalada en este repositorio:
+🔗 https://github.com/settings/installations
